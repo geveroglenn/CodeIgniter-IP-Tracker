@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 /*********************************************************************
- * Description: Tracks the number website visits everyday. 
+ * Description: Tracks the number of website visits everyday. 
  * Version: 1.0.0
  * Date Created: January 09, 2015
  * Author: Glenn Tan Gevero
