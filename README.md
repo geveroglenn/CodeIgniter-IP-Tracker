@@ -15,7 +15,9 @@ Kindly create a table in your database with the following columns:
  `page_view` text,
  `date` int(11) NOT NULL,
  
- 
+
+Open iptracker.php and change at line 46 to your db table name.
+
 How to use: Simply load the library in application/config/autoload.php
 under autuload library line.
 
