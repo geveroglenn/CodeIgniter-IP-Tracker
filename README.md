@@ -23,7 +23,7 @@ under autuload library line.
 
 That's it no need to call the function in each of your controller file.
 
+Visit my website at http://app-arsenal.com
+
 
 Thank you.
-
-Visit my website at http://app-arsenal.com
