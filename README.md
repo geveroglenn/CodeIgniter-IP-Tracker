@@ -25,3 +25,5 @@ That's it no need to call the function in each of your controller file.
 
 
 Thank you.
+
+Visit my website at http://app-arsenal.com
