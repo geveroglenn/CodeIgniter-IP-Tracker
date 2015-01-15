@@ -1,8 +1,7 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 /*********************************************************************
- * Software: App Arsenal Website
  * Description: Tracks the number website visits everyday. 
- * Version: 2.1.2
+ * Version: 1.0.0
  * Date Created: January 09, 2015
  * Author: Glenn Tan Gevero
  * Website: http://app-arsenal.com
