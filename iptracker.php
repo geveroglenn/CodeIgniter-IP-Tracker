@@ -54,7 +54,8 @@ class Iptracker{
         $agent  = self::get_user_agent();
 		$seg    = explode("-", $page);
 		
-		//if(!in_array('admin', $seg)){	 Uncomment this line if you do not want your own admin pages to be tracked. Change the value of the needle ('admin) to the segments (URI) found in your admin pages.		
+        //Uncomment the IF Statement if you do not want your own admin pages to be tracked. Change the value of the needle ('admin) to the segments (URI) found in your admin pages.
+		//if(!in_array('admin', $seg)){			
 			$data = array(
 				'ip'            => $ip,
 				'page_view'     => $page,
