@@ -1,12 +1,11 @@
 # CodeIgniter-IP-Tracker
 CodeIgniter Library to track website visits
 
+Latest update: User Agent inclusion.
+
 This is a simple CI script to track website visits.
 
-This library will record IP address, web pages they opened and the time they visited your website.
-
-You can extend the script to include tracking the User Agent of the user visiting your website. I did not include it in the code since I didn't find it useful for my purpose. The sole purpose why I wrote this script is for me to know how many site visits I am getting everyday and from what IP's they belong
-to.
+This library will record IP address, web pages they opened, user agent and the time they visited your website.
 
 Execute the sql script below in your MySQL Tool such as Workbench to create the needed table in your database to store the site visit records.
 You can change the table name to your liking provided you also edit line 65 of the library class to match your provided table name.
